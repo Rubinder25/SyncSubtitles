@@ -1,5 +1,5 @@
 # SyncSubtitles
-Sync subtitles in .srt  files
+Sync subtitles in .srt  files using NodeJS
 
 # Usage
 <code>
