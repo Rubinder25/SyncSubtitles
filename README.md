@@ -2,7 +2,7 @@
 Sync subtitles in .srt  files using NodeJS
 
 # Usage
-Download the SyncSubtitles.js file and run it with following command:-<br/>
+Download the SyncSubtitles.js file and run it with the following command:-<br/>
 <code>
 node SyncSubtitles &lt;timedelata in milliseconds&gt; &lt;pathToTheSubtitleFile&gt;
 </code>
