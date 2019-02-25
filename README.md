@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/rubinder25/SyncSubtitles.svg?style=flat-square)
+
 # SyncSubtitles
 Sync subtitles in .srt  files using NodeJS
 
