@@ -31,7 +31,7 @@ function d2(n) {
  * @returns {number} number in 3 digits format
  */
 function d3(n) {
-    return ("0" + n).slice(-3);
+    return ("000" + n).slice(-3);
 }
 
 let timeDelta = Number(process.argv[2]);
